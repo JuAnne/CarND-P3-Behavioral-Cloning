@@ -110,4 +110,4 @@ plt.legend(['training set', 'validation set'], loc='upper right')
 plt.show()
 
 ### Save the model
-model.save('model3_run7.h5')
+model.save('model.h5')
